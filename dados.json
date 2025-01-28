@@ -1,0 +1,111 @@
+[
+    {
+        "FRASES DO GPT": {
+            "Numero card": 10,
+            "Meus Cards": {
+                "frase01": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A verdadeira sabedoria n\u00e3o est\u00e1 apenas em acumular conhecimento, mas em compreender que cada nova descoberta revela ainda mais o vasto e inexplorado desconhecido que nos cerca."
+                    },
+                    "img": "null"
+                },
+                "frase02": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "O tempo, esse misterioso escultor da exist\u00eancia, molda nossas vidas com as m\u00e3os invis\u00edveis da imperman\u00eancia, enquanto tentamos em v\u00e3o captur\u00e1-lo em nossa limitada percep\u00e7\u00e3o."
+                    },
+                    "img": "null"
+                },
+                "frase03": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A liberdade plena n\u00e3o \u00e9 encontrada na aus\u00eancia de regras, mas na capacidade de transcender as limita\u00e7\u00f5es impostas pela mente e compreender o valor do equil\u00edbrio entre ordem e caos."
+                    },
+                    "img": "null"
+                },
+                "frase04": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A beleza do mundo reside na complexidade de seus contrastes, onde a luz s\u00f3 \u00e9 percebida porque conhecemos a escurid\u00e3o, e a felicidade se torna mais v\u00edvida ap\u00f3s os momentos de dor."
+                    },
+                    "img": "null"
+                },
+                "frase05": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "Cada ser humano carrega em si uma gal\u00e1xia de pensamentos, sentimentos e mem\u00f3rias, e o verdadeiro ato de comunica\u00e7\u00e3o \u00e9 como um alinhamento de planetas, raro e profundamente significativo."
+                    },
+                    "img": "null"
+                },
+                "frase056": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A busca por sentido \u00e9 o que nos define como humanos, pois \u00e9 ao nos depararmos com o vazio que encontramos a for\u00e7a para criar significados que nos sustentam na jornada."
+                    },
+                    "img": "null"
+                },
+                "frase06": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A busca por sentido \u00e9 o que nos define como humanos, pois \u00e9 ao nos depararmos com o vazio que encontramos a for\u00e7a para criar significados que nos sustentam na jornada."
+                    },
+                    "img": "null"
+                },
+                "frase6": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A busca por sentido \u00e9 o que nos define como humanos, pois \u00e9 ao nos depararmos com o vazio que encontramos a for\u00e7a para criar significados que nos sustentam na jornada."
+                    },
+                    "img": "null"
+                },
+                "frase07": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A eternidade n\u00e3o \u00e9 um ponto no tempo, mas uma perspectiva que nos convida a olhar para al\u00e9m do imediato e perceber que cada momento cont\u00e9m a ess\u00eancia do infinito."
+                    },
+                    "img": "null"
+                },
+                "frase08": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "Somos simultaneamente os autores e os personagens da narrativa que chamamos de vida, mas frequentemente nos esquecemos de que podemos reescrever os cap\u00edtulos que nos aprisionam."
+                    },
+                    "img": "null"
+                },
+                "frase09": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A verdadeira coragem n\u00e3o \u00e9 a aus\u00eancia do medo, mas a disposi\u00e7\u00e3o de agir em nome do que acreditamos, mesmo quando o mundo parece conspirar contra nossas convic\u00e7\u00f5es."
+                    },
+                    "img": "null"
+                },
+                "frase10": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "Assim como uma \u00e1rvore que cresce em dire\u00e7\u00e3o ao c\u00e9u deve aprofundar suas ra\u00edzes na terra, n\u00f3s, para alcan\u00e7armos grandes alturas, precisamos nos conectar com nossas bases mais profundas."
+                    },
+                    "img": "null"
+                },
+                "frase11": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A simplicidade, em sua forma mais pura, n\u00e3o \u00e9 a aus\u00eancia de complexidade, mas a capacidade de encontrar a ess\u00eancia das coisas em meio ao caos que nos rodeia."
+                    },
+                    "img": "null"
+                }
+            },
+            "Arquivo psd": "C:/Users/Felipe/Desktop/FRASES/frase_model.psd",
+            "Pasta Export": "C:/Users/Felipe/Desktop/FRASES/CARDS"
+        }
+    },
+    {
+        "MINHAS FRASES": {
+            "Numero card": 5,
+            "Meus Cards": {
+                "FRASE DA VIDA": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "A vida \u00e9 curta, viva. O amor \u00e9 raro, aproveite. O medo \u00e9 terr\u00edvel, enfrente. As lembran\u00e7as s\u00e3o doces, aprecie."
+                    },
+                    "img": "null"
+                },
+                "FRASE DE CASA": {
+                    "Camada_e_substitucao": {
+                        "FRASE": "Na vida e no amor, n\u00e3o temos garantias. Portanto, n\u00e3o procure por elas. Viva o que tem que ser vivido. Sem medos. O medo \u00e9 um dos piores inimigos do amor e da felicidade.",
+                        "CHAT": "Felipe Lino"
+                    },
+                    "img": "null"
+                }
+            },
+            "Arquivo psd": "C:/Users/Felipe/Desktop/FRASES/frase_model.psd",
+            "Pasta Export": "C:/Users/Felipe/Desktop/FRASES/MINHAS FRSES"
+        }
+    }
+]
